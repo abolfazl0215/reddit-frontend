@@ -189,7 +189,7 @@ For production, use environment variables:
 
 ```bash
 # .env.local
-NEXT_PUBLIC_API_BASE_URL=https://your-api-domain.com/api
+NEXT_PUBLIC_API_BASE_URL=https://reddit-back.liara.run/api
 ```
 
 Then update the code:
@@ -636,7 +636,6 @@ This project is proprietary software. All rights reserved.
 For issues and questions:
 
 - Contact: abolfazl021mokhtari@gmail.com
-
 
 ---
 
